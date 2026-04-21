@@ -1,0 +1,9 @@
+# Virtual environments
+.venv*/
+ 
+# CatBoost logs
+catboost_info/
+
+# Dataset files
+train-*.csv
+test-*.csv
