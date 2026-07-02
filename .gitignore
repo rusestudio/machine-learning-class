@@ -7,3 +7,26 @@ catboost_info/
 # Dataset files
 train-*.csv
 test-*.csv
+
+*.csv
+
+submission result/
+
+# Data
+*.csv
+*.xlsx
+
+# Images
+*.png
+*.jpg
+*.jpeg
+
+# Models
+*.pth
+*.pt
+*.ckpt
+*.bin
+
+# Python cache
+__pycache__/
+*.pyc
